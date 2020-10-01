@@ -1,6 +1,6 @@
 # myinfoApp
 
-A new Flutter project damn thats insane dude.
+A new Flutter project damn thats insane dude..
 
 ## Getting Started
 
